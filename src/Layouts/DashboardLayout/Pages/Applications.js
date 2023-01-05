@@ -142,10 +142,6 @@ const Applications = () => {
     }
   }, [user.role && searchQuery]);
 
-  // useEffect(() => {
-  //   dispatch(showDepartment(searchQuery));
-  // }, [searchQuery]);
-
   const feeSectionHeadData = [
     {
       id: "misid",
