@@ -20,8 +20,6 @@
 
 # 📖 FUUDTVS <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 Degree tracking system will allow the students to track their
 degree and check the status of their application of degree. This
 will facilitate both the students and the university
@@ -58,14 +56,15 @@ You can also checkout my backend repo:
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">NodeJS/ExpressJS</a></li>
+    <li><a href="https://nodejs.org/en/">NodeJS</a></li>
+    <li><a href="https://expressjs.com/">ExpressJS</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">MongoDB</a></li>
+    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
   </ul>
 </details>
 
@@ -91,11 +90,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-Example command:
+ Install from this website [NodeJS](https://nodejs.org/en/)
 
-```sh
- Install [NodeJS](https://nodejs.org/en/)
-```
 
 ### Setup
 
@@ -114,7 +110,7 @@ commands:
 
 Install this project with:
 
-Example command:
+command:
 
 ```sh
   cd fuudtvs-client
@@ -127,7 +123,7 @@ Example command:
 
 To run the project, execute the following command:
 
-Example command:
+command:
 
 ```sh
   npm start
@@ -145,7 +141,7 @@ Example command:
 
 👤 **Aamir Khan**
 
-- GitHub: [@Josphat205](https://github.com/aamirkhan2478)
+- GitHub: [@aamirkhan2478](https://github.com/aamirkhan2478)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/aamir-khan-302a44237/)
 
 
@@ -155,7 +151,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]([../..](https://github.com/aamirkhan2478/fuudtvs-client.git)/issues/).
+Feel free to check the [issues page](https://github.com/aamirkhan2478/fuudtvs-client/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
