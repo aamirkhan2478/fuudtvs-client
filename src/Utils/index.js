@@ -2,7 +2,7 @@ import axios from 'axios';
 import { logoutUser } from '../Redux/Actions/authAction';
 import store from '../Redux/store';
 
-const baseURL = 'https://web-production-429e.up.railway.app/';
+const baseURL = 'https://fuudtvs.onrender.com';
 
 const axiosInstance = axios.create({
   baseURL,
