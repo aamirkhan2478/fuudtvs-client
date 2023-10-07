@@ -2,7 +2,7 @@ import axios from 'axios';
 import { logoutUser } from '../Redux/Actions/authAction';
 import store from '../Redux/store';
 
-const baseURL = 'https://fuudtvs.onrender.com';
+const baseURL = 'https://fuudtvs-server.vercel.app/';
 
 const axiosInstance = axios.create({
   baseURL,
